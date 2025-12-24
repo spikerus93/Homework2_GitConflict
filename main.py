@@ -1,11 +1,4 @@
 
-def calc(a,b):
-    print(a+b)
-    print(a-b)
-    print(a*b)
-    print(a/b)
-
-def calc_new(a,b):
-    print(a%b)
-    print(a//b)
-    print(a**b)
+def hello_world():
+    print("Hello World!")
+hello_world()
